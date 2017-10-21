@@ -1,6 +1,7 @@
 '''Print hello'''
-def print_it():
+def print_it(times):
     '''print'''
-    print('Hello, World!')
+    for _ in range(times):
+        print('Hello, World!')
 
-print_it()
+print_it(int(input())
