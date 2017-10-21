@@ -19,5 +19,6 @@ def print_it(times):
         print("Yaimai so cute")
         print("Yaimai so cute")
         print("Yaimai so cute")
+        print("รักนะงับอิอิ")
 
 print_it(int(input())
