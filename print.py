@@ -4,5 +4,14 @@ def print_it(times):
     for _ in range(times):
         print('Hello, World!')
         print('New')
+        print("KUY")
+        print("KUY")
+        print("KUY")
+        print("KUY")
+        print("KUY")
+        print("KUY")
+        print("KUY")
+        print("KUY")
+        print("KUY")
 
 print_it(int(input())
